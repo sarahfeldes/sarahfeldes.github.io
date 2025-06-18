@@ -6,7 +6,7 @@ subtitle: Profile & Portfolio
 
 profile:
   align: right
-  image: 
+  image: assets/img/Sarah 1.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bsc. Market & Management Anthropology</p>
